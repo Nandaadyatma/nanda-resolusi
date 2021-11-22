@@ -1,2 +1,2 @@
 # nanda-resolusi
-repositoru untuk menyimpan rencana saya kedepannya
+repositori untuk menyimpan rencana saya kedepannya
